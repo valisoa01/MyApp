@@ -4,6 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <div className='val'>
  
       <div>Hello World , my name Valisoa, student of PNm</div>
       <div>Hello World , my name Valisoa, student of PNm</div>
@@ -17,7 +18,7 @@ function App() {
       <div>Hello Valisoa my name is Eddy</div>
  
       <div> how to make this happen</div>
- n
+      </div>
  
     </div>
   );
